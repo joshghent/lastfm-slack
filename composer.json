@@ -8,7 +8,7 @@
         "Spotify"
     ],
     "require": {
-        "guzzlehttp/guzzle": "^6.2",
+        "guzzlehttp/guzzle": "^7.12",
         "vlucas/phpdotenv": "^2.4",
         "matto1990/lastfm-api": "^1.5",
         "react/event-loop": "^1.1"
